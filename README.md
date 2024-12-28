@@ -1,2 +1,2 @@
 # bootcampdataanalytics
-Atividades realizadas por mim para o bootcamp Data Analytics da WoMakersCode
+Atividades realizadas por mim durante o bootcamp Data Analytics da WoMakersCode.
